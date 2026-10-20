@@ -29,7 +29,3 @@
 <img src="assets/contact.svg" width="100%" alt="Got an idea? Let's ship it. Open to internships, collaborations and interesting projects." />
 
 <p><a href="mailto:satyajeetnayak58@gmail.com"><img src="assets/link-email.svg" width="33.33%" alt="Email satyajeetnayak58@gmail.com" /></a><a href="https://www.linkedin.com/in/isatyajeet9/"><img src="assets/link-linkedin.svg" width="33.33%" alt="LinkedIn in/isatyajeet9" /></a><a href="https://x.com/isatyajeet9"><img src="assets/link-x.svg" width="33.33%" alt="X @isatyajeet9" /></a></p>
-
-   <p align="right">
-     <img src="https://komarev.com/ghpvc/?username=isatyajeet9&label=visitors&color=3DDC84&style=flat-square" alt="visitors" />
-   </p>
